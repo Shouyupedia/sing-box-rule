@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "bcbolt446c5271-a.akamaihd.net",
+        "dashasiafox.akamaized.net",
+        "staticasiafox.akamaized.net",
+        "cbsservice.aws.syncbak.com",
+        "cbsplaylistserver.aws.syncbak.com",
+        "edge.api.brightcove.com",
+        "cbsi.live.ott.irdeto.com"
+      ],
+      "domain_suffix": [
+        "discoveryplus.in",
+        "hulu.jp",
+        "happyon.jp",
+        "hjholdings.jp",
+        "hulu.tv",
+        "pluto.tv",
+        "hulu.us",
+        "fox.com",
+        "sho.com",
+        "cbsi.com",
+        "hulu.com",
+        "vudu.com",
+        "dnitv.com",
+        "foxdcg.com",
+        "huluim.com",
+        "uplynk.com",
+        "foxplus.com",
+        "showtime.com",
+        "cbsivideo.com",
+        "disco-api.com",
+        "encoretvb.com",
+        "peacocktv.com",
+        "cbsaavideo.com",
+        "hulustream.com",
+        "theplatform.com",
+        "discoveryplus.com",
+        "paramountplus.com",
+        "discoveryplus.co.uk"
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [],
+      "process_name": ["com.hulu.plus"],
+      "process_path": []
+    }
+  ]
+}
